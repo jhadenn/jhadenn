@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jhadenn
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+2nd Year Computer Science Student at Ontario Tech University
 
 <!---
 jhadenn/jhadenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
