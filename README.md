@@ -16,6 +16,8 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white)
 
+<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/jhadenn)
 
