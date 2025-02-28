@@ -3,6 +3,8 @@
 2nd Year Computer Science Student at Ontario Tech University
 
 ## Connect with me
+<a href="https://www.linkedin.com/in/jhaden-goy-11b787331/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Jhaden Goy | LinkedIn" width="35px"/></a>
+
 
 ## Technical Skills
 ![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
