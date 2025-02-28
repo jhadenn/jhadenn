@@ -1,3 +1,5 @@
+## About me
+
 2nd Year Computer Science Student at Ontario Tech University
 
 ## Connect with me
@@ -8,6 +10,8 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/jhadenn)
 
