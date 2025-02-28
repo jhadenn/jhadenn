@@ -4,6 +4,7 @@
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/jhaden-goy-11b787331/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Jhaden Goy | LinkedIn" width="35px"/></a>
+<a href="jhadengoy@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Jhaden Goy | Gmail" width="35px"/></a>
 
 
 ## Technical Skills
