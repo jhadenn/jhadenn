@@ -46,7 +46,7 @@ I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Sc
 ## ⚡ GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhadenn&layout=pie&count_private=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhadenn&layout=compact&count_private=true&theme=dracula" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhadenn&theme=dracula"/> 
 </div>
 
