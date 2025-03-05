@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Jhaden Goy</a> <img
 src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></h1>
-<h3 align="left"> About me</h3>
+<br>
+
+## About me 💻
 I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Science @ OTU 
 
 
@@ -11,8 +13,7 @@ I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Sc
 - 💬 I'm interested in Machine Learning and AI!
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+## 🚀💻 Technologies & Tools
 
 <div align="center">
 <!--- cpp --->
@@ -42,8 +43,6 @@ I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Sc
 </div>
 
 <br>
-<br>
-
 
 ## ⚡ GitHub Stats
 
