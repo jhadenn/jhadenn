@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Jhaden Goy</a> <img
 src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></h1>
-<br>
 
-## About me 💻
+##  💻About me 
 I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Science @ OTU 
 
 
