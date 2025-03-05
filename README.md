@@ -1,6 +1,16 @@
 <h1 align="center">Hi there, I'm Jhaden Goy</a> <img
 src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></h1>
-<h3 align="center">A Computer Science Student @ OTU</h3>
+<h3 align="left"> About me</h3>
+I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Science @ OTU 
+
+
+- 📈 Building StudyTok, Portfolio Website soon...
+
+- ❤️ My favourite language is TypeScript, I love creating useful apps
+
+- 💬 I'm interested in Machine Learning and AI!
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -33,6 +43,9 @@ src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></
 
 <br>
 <br>
+
+
+## ⚡ GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhadenn&layout=pie&count_private=true&theme=dracula" />
