@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jhaden Goy</a> <img
+<h1 align="center">Hello, I'm Jhaden Goy</a> <img
 src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></h1>
 
 ##  💻About me 
@@ -39,6 +39,8 @@ I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Sc
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <!-- reactjs -->
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <!-- supabase -->
+    <a href="https://supabase.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
 </div>
 
 <br>
