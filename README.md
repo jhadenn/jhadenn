@@ -5,7 +5,7 @@ src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></
 I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Science @ OTU 
 
 
-- 📈 Building StudyTok, Portfolio Website soon...
+- 📈 Building Lock-In App, Portfolio Website soon...
 
 - ❤️ My favourite language is TypeScript, I love creating useful apps
 
