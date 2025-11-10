@@ -7,9 +7,9 @@ I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Sc
 
 - 📈 Figuring things out
 
-- ❤️ My favourite language is TypeScript, I love creating useful apps
+- ❤️ 
 
-- 💬 I'm interested in Machine Learning and AI!
+- 💬 I'm interested in full stack development
 
 
 ## 🚀💻 Technologies & Tools
