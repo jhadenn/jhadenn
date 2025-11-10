@@ -7,9 +7,8 @@ I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Sc
 
 - 📈 Figuring things out
 
-- ❤️ 
 
-- 💬 I'm interested in full stack development
+- 💬 I'm interested in full stack development.
 
 
 ## 🚀💻 Technologies & Tools
