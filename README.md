@@ -5,7 +5,7 @@ src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></
 I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Science @ OTU 
 
 
-- 📈 Working on a Marketly...
+- 📈 Working on Marketly...
 
 
 - 💬 I'm interested in full stack development, cloud computing, machine learning and artificial intelligence.
