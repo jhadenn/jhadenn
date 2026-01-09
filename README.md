@@ -12,7 +12,10 @@ I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Sc
 
 
 ## Contact  🤝
-📫 **jhadengoy@gmail.com**
+- 📫 **jhadengoy@gmail.com**
+
+- 🧑‍💼 **[LinkedIn](https://www.linkedin.com/in/jhaden-goy-11b787331/)**
+
 
 
 ## 🚀💻 Technologies & Tools
