@@ -8,7 +8,7 @@ I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Sc
 - 📈 Working on Marketly...
 
 
-- 💬 I'm interested in full stack development, cloud computing, machine learning and artificial intelligence.
+- 💬 I'm interested in AI driven software development and data science
 
 
 ## Contact  🤝
