@@ -5,8 +5,7 @@ src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></
 I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Science @ OTU 
 
 
-- 📈 Working on Marketly...
-
+- 📈 Working on Marketly and Owl
 
 - 💬 I'm interested in AI driven software development and data science
 
