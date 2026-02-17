@@ -2,7 +2,7 @@
 src="https://github.com/jhadenn/jhadenn/raw/main/images/Hi.gif" height="32" /></h1>
 
 ##  💻About me 
-I'm an aspiring Software Engineer from Toronto, Canada 🍁 studying Computer Science @ OTU 
+I'm a 3rd year student from Toronto, Canada 🍁 studying Computer Science @ OTU 
 
 
 - 📈 Working on Marketly and Owl
