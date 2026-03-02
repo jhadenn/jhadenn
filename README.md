@@ -1,11 +1,12 @@
-# Jhaden Goy &nbsp;&nbsp;<sup> &#12299; </sup>
-interested in AI driven software development and data science
+# Jhaden Goy &nbsp;&nbsp; &#12299; &nbsp; BSc. Computer Science
+interested in AI systems & data engineering <br>
+
 
 
 ## Contact 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://jhadengoy.xyz) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhaden-goy-11b787331/) 
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhadengoy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhaden-goy-11b787331/) 
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhadengoy@gmail.com)
 
 ## Tech Stack
 
