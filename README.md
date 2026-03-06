@@ -1,4 +1,4 @@
-# Jhaden Goy &nbsp;&nbsp; &#12299; &nbsp; BSc. Computer Science
+# Jhaden Goy &nbsp;&nbsp; &#12299; &nbsp; BSc. Computer Science 
 interested in AI systems & data engineering <br>
 
 
@@ -38,6 +38,7 @@ interested in AI systems & data engineering <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![](https://komarev.com/ghpvc/?username=jhadenn)
 
 
 
