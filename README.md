@@ -1,5 +1,5 @@
 # Jhaden Goy &nbsp;&nbsp; &#12299; &nbsp; BSc. Computer Science 
-interested in AI systems & data engineering <br>
+interested in AI engineering & systems <br>
 
 
 
