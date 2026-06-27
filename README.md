@@ -1,5 +1,5 @@
 # Jhaden Goy &nbsp;&nbsp; &#12299; &nbsp; BSc. Computer Science 
-interested in AI engineering; agents & systems <br>
+interested in AI engineering; agents & systems | incoming RBC CM QTS fall 2026<br>
 
 
 
