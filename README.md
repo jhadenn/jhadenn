@@ -1,5 +1,5 @@
 # jhaden goy &nbsp;&nbsp; &#12299; &nbsp; bsc. computer science 
-interested in AI engineering; agents & systems<br>
+interested in ai engineering; agents & systems<br>
 
 
 
