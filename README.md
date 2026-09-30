@@ -1,4 +1,4 @@
-# jhaden goy &nbsp;&nbsp; &#12299; &nbsp; BSc. computer science 
+# jhaden goy &nbsp;&nbsp; &#12299; &nbsp; bsc. computer science 
 interested in AI engineering; agents & systems<br>
 
 
